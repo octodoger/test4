@@ -3,6 +3,10 @@
 // ------
 //
 
+function bug12() {
+  if (bla == null) return "Hello, world!"
+}
+
 function main() {
   return "Hello, World!";
 }
