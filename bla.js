@@ -23,6 +23,10 @@ function main22() {
   return "Hello, World!"
 }
 
+function main22() {
+  return "Hello, World!"
+}
+
 function main() {
   return "Hello, World!";
 }
