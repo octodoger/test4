@@ -48,4 +48,9 @@ function main3 () {
   return "Hello, World!"
 }
 
+function main3123 () {
+  if (bla == null) return;
+  return "Hello, World!"
+}
+
 main();
