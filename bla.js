@@ -49,3 +49,4 @@ function main3 () {
 }
 
 main();
+main();
